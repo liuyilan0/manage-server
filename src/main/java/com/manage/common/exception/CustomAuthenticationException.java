@@ -3,7 +3,7 @@ package com.manage.common.exception;
 import org.springframework.security.core.AuthenticationException;
 
 /**
- * @author czx
+ * @author author
  * @title: CustomAuthenticationException
  * @projectName x-springboot
  * @description: TODO

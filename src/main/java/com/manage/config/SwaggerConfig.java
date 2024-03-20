@@ -25,7 +25,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * Created by czx on 2021/04/02.
+ * Created by author on 2021/04/02.
  */
 @EnableOpenApi
 @ComponentScan(basePackages = {"com.manage.modules"})

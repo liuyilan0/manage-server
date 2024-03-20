@@ -11,8 +11,8 @@ import java.io.Serializable;
 /**
  * 用户与角色对应关系
  *
- * @author czx
- * @email object_czx@163.com
+ * @author author
+ * @email author@163.com
  */
 @Data
 @ApiModel(value = "用户与角色对应关系")

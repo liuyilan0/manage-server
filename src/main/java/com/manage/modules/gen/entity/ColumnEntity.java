@@ -5,8 +5,8 @@ import lombok.Data;
 /**
  * 列的属性
  *
- * @author czx
- * @email object_czx@163.com
+ * @author author
+ * @email author@163.com
  * @date 2016年12月20日 上午12:01:45
  */
 @Data

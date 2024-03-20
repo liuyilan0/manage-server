@@ -3,8 +3,8 @@ package com.manage.common.exception;
 /**
  * 自定义异常
  * 
- * @author czx
- * @email object_czx@163.com
+ * @author author
+ * @email author@163.com
  * @date 2016年10月27日 下午10:11:27
  */
 public class RRException extends RuntimeException {

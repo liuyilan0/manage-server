@@ -3,7 +3,7 @@ package com.manage.modules.gen.entity;
 import lombok.Data;
 
 /**
- * @author czx
+ * @author author
  * @title: MakerConfigEntity
  * @projectName zhjg
  * @description: TODO

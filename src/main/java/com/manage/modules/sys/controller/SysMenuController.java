@@ -18,8 +18,8 @@ import java.util.Map;
 /**
  * 系统菜单
  *
- * @author czx
- * @email object_czx@163.com
+ * @author author
+ * @email author@163.com
  */
 @Slf4j
 @RestController

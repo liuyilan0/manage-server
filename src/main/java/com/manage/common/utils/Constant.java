@@ -3,8 +3,8 @@ package com.manage.common.utils;
 /**
  * 常量
  *
- * @author czx
- * @email object_czx@163.com
+ * @author author
+ * @email author@163.com
  * @date 2016年11月15日 下午1:23:52
  */
 public class Constant {
@@ -26,8 +26,8 @@ public class Constant {
 	/**
 	 * 菜单类型
 	 *
-	 * @author czx
-	 * @email object_czx@163.com
+	 * @author author
+	 * @email author@163.com
 	 * @date 2016年11月15日 下午1:24:29
 	 */
     public enum MenuType {

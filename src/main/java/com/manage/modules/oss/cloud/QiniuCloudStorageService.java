@@ -14,8 +14,8 @@ import java.io.InputStream;
 /**
  * 七牛云存储
  *
- * @author czx
- * @email object_czx@163.com
+ * @author author
+ * @email author@163.com
  * @date 2017-03-25 15:41
  */
 @Component

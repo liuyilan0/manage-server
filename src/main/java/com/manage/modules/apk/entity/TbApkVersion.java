@@ -15,8 +15,8 @@ import java.util.Date;
 /**
  * APK版本管理
  *
- * @author czx
- * @email object_czx@163.com
+ * @author author
+ * @email author@163.com
  * @date 2023-01-26 20:32:33
  */
 @Data

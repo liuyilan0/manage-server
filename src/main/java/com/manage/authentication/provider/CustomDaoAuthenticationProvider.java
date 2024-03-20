@@ -6,7 +6,7 @@ import org.springframework.security.authentication.dao.DaoAuthenticationProvider
 import org.springframework.security.core.userdetails.UserDetails;
 
 /**
- * @author czx
+ * @author author
  * @title: CustomDaoAuthenticationProvider
  * @projectName zhjg
  * @description: TODO

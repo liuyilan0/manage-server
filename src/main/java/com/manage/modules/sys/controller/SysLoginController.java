@@ -22,8 +22,8 @@ import java.util.concurrent.TimeUnit;
 /**
  * 登录相关
  *
- * @author czx
- * @email object_czx@163.com
+ * @author author
+ * @email author@163.com
  */
 @Slf4j
 @RestController

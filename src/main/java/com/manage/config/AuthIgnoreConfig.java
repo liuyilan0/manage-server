@@ -21,7 +21,7 @@ import java.util.Map;
 import java.util.regex.Pattern;
 
 /**
- * @author czx
+ * @author author
  * @title: AuthIgnoreConfig
  * @projectName x-springboot
  * @description: TODO

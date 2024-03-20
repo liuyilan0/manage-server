@@ -10,8 +10,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 /**
  * Controller公共组件
  *
- * @author czx
- * @email object_czx@163.com
+ * @author author
+ * @email author@163.com
  * @date 2016年11月9日 下午9:42:26
  */
 

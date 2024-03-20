@@ -13,8 +13,8 @@ import java.util.Date;
 /**
  * 系统日志
  *
- * @author czx
- * @email object_czx@163.com
+ * @author author
+ * @email author@163.com
  * @date 2017-03-08 10:40:56
  */
 @Data

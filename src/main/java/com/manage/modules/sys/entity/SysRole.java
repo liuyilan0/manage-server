@@ -19,8 +19,8 @@ import java.util.List;
 /**
  * 角色
  *
- * @author czx
- * @email object_czx@163.com
+ * @author author
+ * @email author@163.com
  */
 @Data
 @ApiModel(value = "角色")

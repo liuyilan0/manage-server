@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.Date;
 
 /**
- * @author czx
+ * @author author
  * @title: CustomLogoutSuccessHandler
  * @projectName x-springboot
  * @description: TODO

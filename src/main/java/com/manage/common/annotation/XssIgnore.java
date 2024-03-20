@@ -4,7 +4,7 @@ import java.lang.annotation.*;
 
 /**
  * 忽略XSS过滤
- * @author czx
+ * @author author
  * @email yzcheng90@qq.com
  */
 @Target(ElementType.METHOD)

@@ -22,22 +22,22 @@ public class SwaggerProperties {
     /**
      * 项目信息
      */
-    private String title = "后管平台";
+    private String title = "";
 
     /**
      * 描述信息
      */
-    private String description = "接口平台";
+    private String description = "";
 
     /**
      * 版本信息
      */
-    private String version = "0.0.1";
+    private String version = "";
 
     /**
      * 作者
      */
-    private String author = "liuyilan";
+    private String author = "";
 
     /**
      * url
@@ -47,6 +47,6 @@ public class SwaggerProperties {
     /**
      * email
      */
-    private String email = "liuyilan1995@163.com";
+    private String email = "";
 
 }

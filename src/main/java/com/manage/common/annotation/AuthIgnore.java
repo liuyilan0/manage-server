@@ -4,7 +4,7 @@ import java.lang.annotation.*;
 
 /**
  * api接口，忽略Token验证
- * @author czx
+ * @author author
  * @email yzcheng90@qq.com
  * @date 2017-03-23 15:44
  */

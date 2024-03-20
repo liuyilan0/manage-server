@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * @author czx
+ * @author author
  * @title: ValidateCodeFilter
  * @projectName x-springboot
  * @description: TODO

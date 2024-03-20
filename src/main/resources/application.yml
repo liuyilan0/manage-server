@@ -24,12 +24,12 @@ spring:
 
 swagger:
   enable: true
-  title: X-SpringBoot API
+  title: manage-server SpringBoot API
   description:
-  version: 5.0.0
-  author: czx
-  url: https://github.com/yzcheng90/X-SpringBoot
-  email: object_czx@163.com
+  version: 1.0.0
+  author: lyl
+  url: https://github.com/liuyilan0/manage-server
+  email: liuyilan1995@163.com
 
 # autofull 配置
 autofull:

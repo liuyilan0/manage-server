@@ -19,8 +19,8 @@ import java.util.List;
 /**
  * 系统用户
  *
- * @author czx
- * @email object_czx@163.com
+ * @author author
+ * @email author@163.com
  */
 @Data
 @TableName("sys_user")

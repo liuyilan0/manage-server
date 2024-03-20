@@ -6,8 +6,8 @@ import com.manage.modules.sys.entity.SysMenuNew;
 /**
  * 菜单管理
  * 
- * @author czx
- * @email object_czx@163.com
+ * @author author
+ * @email author@163.com
  */
 public interface SysMenuNewMapper extends BaseMapper<SysMenuNew> {
 

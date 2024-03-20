@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @Author czx
+ * @Author author
  * @Description //TODO Page 数据转换
  * @Date 17:13 2019/4/18
  **/
@@ -22,7 +22,7 @@ public class MPPageConvert {
     }
 
     /**
-     * @Author czx
+     * @Author author
      * @Description //TODO 前台传过来的参数转换为MyBatis Plus的Page
      * @Date 17:14 2019/4/18
      * @Param [param]
@@ -42,7 +42,7 @@ public class MPPageConvert {
     }
 
     /**
-     * @Author czx
+     * @Author author
      * @Description //TODO 将MyBatis Plus 的Page 转换为前台能用的Page
      * @Date 17:14 2019/4/18
      * @Param [page]
